@@ -1,13 +1,15 @@
 # DataDevSalaryAnalytics
 
-you can find :
+Analysis of US data developers salary in USD dollars
+
+Here you can find :
 
 - tableau file
 
-- colab notebook for cleaning the original dataset
+- colab notebook for cleaning the original dataset ( also  link for the riginal dataset)
 
-- cleaned dataset as a csv (it is the input for tableau analysis)
+- cleaned dataset as a csv file  (it is the input for tableau analysis)
 
-- screen of analysis
+- screenshoots  of analysis (they are the  same presentes in the report)
 
-- a small report 
+- a small pdf report with the results
